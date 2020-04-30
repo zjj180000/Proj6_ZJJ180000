@@ -1,8 +1,14 @@
-#
-# UTD CS3377 CDK Example
-# Dr. Perkins
-# stephen.perkins@utdallas.edu
-#
+ # Filename     Makefile
+ # Date         4/30/2020
+ # Author       Zachary James Jackson
+ # Email        ZJJ180000@utdallas.edu
+ # Course       CS 3377.501 Spring 2020
+ # Version      1.0
+ # Copyright    2020, All Rights Reserved
+ #
+ # Description
+ #
+ # Makefile to compile the project
 
 CXX = g++ -std=c++11
 CXXFLAGS =
